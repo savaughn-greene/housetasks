@@ -29,6 +29,16 @@ const profile = [
   { key: 'grocery_store_secondary', value: "Trader Joe's" },
   { key: 'cleaner_frequency', value: 'biweekly' },
   { key: 'lawn_service', value: 'hired out, Sav manages relationship' },
+  { key: 'trash_days', value: 'monday,thursday' },
+  { key: 'bulk_trash_day', value: 'thursday (second regular pickup day; furniture and mattresses curbside, mattresses wrapped in plastic and taped)' },
+  { key: 'bulk_metal_electronics', value: 'appointment required with White Plains sanitation, 914-422-1217' },
+  { key: 'wife_diet', value: 'gluten free' },
+  { key: 'wife_interests', value: 'photography, serious and skilled' },
+  { key: 'wife_bday', value: '11-12' },
+  { key: 'wedding_anniversary', value: '11-03' },
+  { key: 'kid1_school', value: 'Post Road Elementary School, Mrs. Sharkey class (class parent Leslie Navarro)' },
+  { key: 'employer', value: '73 Strings, North America sales team' },
+  { key: 'workout_schedule', value: 'CrossFit mon/wed 8:30am, short run tue 6am, long run fri 7am, ride sat 8am, easy run sun 8am' },
 ];
 
 const cards = [
@@ -41,8 +51,8 @@ const cards = [
   { id: 'home_maintenance', name: 'Home Maintenance', category: 'home', frequency: 'ad_hoc' },
   { id: 'storage_garage', name: 'Storage, Garage & Seasonal Items', category: 'home', frequency: 'seasonal' },
   { id: 'mail', name: 'Mail', category: 'home', frequency: 'daily', notes: 'Includes processing and acting on bills' },
-  { id: 'garbage', name: 'Garbage', category: 'home', frequency: 'weekly', notes: 'Fully owned by Sav' },
-  { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches' },
+  { id: 'garbage', name: 'Garbage', category: 'home', frequency: 'weekly', notes: 'Fully owned by Sav. Pickup Monday and Thursday on McBride Ave. Bulk items go curbside on the second pickup day (Thursday) - mattresses must be wrapped in plastic and taped. Metal and electronics need an appointment with White Plains sanitation, 914-422-1217.' },
+  { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches. Nicole is gluten free, so keep GF options in the weekly list' },
   { id: 'money_manager', name: 'Money Manager', category: 'home', frequency: 'monthly', notes: 'Mortgage, utilities, taxes, all major bills' },
   // OUT
   { id: 'social_plans', name: 'Social Plans (Couples)', category: 'out', frequency: 'ad_hoc' },
@@ -54,7 +64,7 @@ const cards = [
   { id: 'pets', name: 'Pets', category: 'caregiving', frequency: 'daily', notes: 'Sally (dog, 55lb hound, 6yo) and Ajax (cat, 10yo)' },
   { id: 'health_insurance', name: 'Health Insurance', category: 'caregiving', frequency: 'annual', notes: 'Enrollment, management' },
   // MAGIC
-  { id: 'marriage_romance', name: 'Marriage & Romance', category: 'magic', frequency: 'ad_hoc' },
+  { id: 'marriage_romance', name: 'Marriage & Romance', category: 'magic', frequency: 'ad_hoc', notes: "Anniversary Nov 3, Nicole's birthday Nov 12. Nicole is gluten free and seriously into photography." },
   { id: 'adult_friendships', name: 'Adult Friendships (Player 1)', category: 'magic', frequency: 'ad_hoc' },
 ];
 
