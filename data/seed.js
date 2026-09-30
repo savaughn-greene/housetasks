@@ -59,8 +59,8 @@ const cards = [
 ];
 
 const reminders = [
-  // Garbage — Tuesday 8pm (for Wednesday pickup)
-  { card_id: 'garbage', message: "🗑️ Trash night — don't forget to put bins out before bed.", cron: '0 20 * * 2' },
+  // Garbage — Sunday and Wednesday 8pm (for Monday and Thursday pickup)
+  { card_id: 'garbage', message: "🗑️ Trash night — don't forget to put bins out before bed.", cron: '0 20 * * 0,3' },
 
   // Grocery planning nudge Saturday evening
   { card_id: 'groceries', message: "🛒 Tomorrow is grocery day. What do you need for the week? Reply to brainstorm the list.", cron: '0 19 * * 6' },
