@@ -39,6 +39,8 @@ const profile = [
   { key: 'kid1_school', value: 'Post Road Elementary School, Mrs. Sharkey class (class parent Leslie Navarro)' },
   { key: 'employer', value: '73 Strings, North America sales team' },
   { key: 'workout_schedule', value: 'CrossFit mon/wed 8:30am, short run tue 6am, long run fri 7am, ride sat 8am, easy run sun 8am' },
+  { key: 'workout_tracker', value: 'Strava (primary), Whoop secondary' },
+  { key: 'barber', value: 'Mambru at Mambru & friends barbershop' },
 ];
 
 const cards = [
