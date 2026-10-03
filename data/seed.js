@@ -40,7 +40,7 @@ const profile = [
   { key: 'employer', value: '73 Strings, North America sales team' },
   { key: 'workout_schedule', value: 'CrossFit mon/wed 8:30am, short run tue 6am, long run fri 7am, ride sat 8am, easy run sun 8am' },
   { key: 'workout_tracker', value: 'Strava (primary), Whoop secondary' },
-  { key: 'barber', value: 'Mambru at Mambru & friends barbershop' },
+  { key: 'barber', value: 'Mambru at Mambru & friends barbershop, 360 Mt Pleasant Ave, Mamaroneck (Sav + kids)' },
 ];
 
 const cards = [
@@ -54,7 +54,7 @@ const cards = [
   { id: 'storage_garage', name: 'Storage, Garage & Seasonal Items', category: 'home', frequency: 'seasonal' },
   { id: 'mail', name: 'Mail', category: 'home', frequency: 'daily', notes: 'Includes processing and acting on bills' },
   { id: 'garbage', name: 'Garbage', category: 'home', frequency: 'weekly', notes: 'Fully owned by Sav. Pickup Monday and Thursday on McBride Ave. Bulk items go curbside on the second pickup day (Thursday) - mattresses must be wrapped in plastic and taped. Metal and electronics need an appointment with White Plains sanitation, 914-422-1217.' },
-  { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches. Nicole is gluten free, so keep GF options in the weekly list' },
+  { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches. Nicole is gluten free, so keep GF options in the weekly list. Usual staples: Fairlife 2% lactose-free milk, Oatly original oat milk' },
   { id: 'money_manager', name: 'Money Manager', category: 'home', frequency: 'monthly', notes: 'Mortgage, utilities, taxes, all major bills' },
   // OUT
   { id: 'social_plans', name: 'Social Plans (Couples)', category: 'out', frequency: 'ad_hoc' },
