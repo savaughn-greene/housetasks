@@ -38,7 +38,7 @@ const profile = [
   { key: 'wedding_anniversary', value: '11-03' },
   { key: 'kid1_school', value: 'Post Road Elementary School, Mrs. Sharkey class (class parent Leslie Navarro)' },
   { key: 'employer', value: '73 Strings, North America sales team' },
-  { key: 'workout_schedule', value: 'CrossFit mon/wed 8:30am, short run tue 6am, long run fri 7am, ride sat 8am, easy run sun 8am' },
+  { key: 'workout_schedule', value: 'OUTDATED: calendar workouts are from an old August plan, current plan of record is training plan v2.2 (not the calendar). Old calendar slots were CrossFit mon/wed 8:30am, short run tue 6am, long run fri 7am, ride sat 8am, easy run sun 8am' },
   { key: 'workout_tracker', value: 'Strava (primary), Whoop secondary' },
   { key: 'barber', value: 'Mambru at Mambru & friends barbershop, 360 Mt Pleasant Ave, Mamaroneck (Sav + kids)' },
 ];
