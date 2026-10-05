@@ -22,6 +22,7 @@ const profile = [
   { key: 'dog_name', value: 'Sally' },
   { key: 'dog_breed', value: '55lb hound mix' },
   { key: 'dog_age', value: '6' },
+  { key: 'dog_food', value: 'Taste of the Wild salmon formula, 50lb bags' },
   { key: 'cat_name', value: 'Ajax' },
   { key: 'cat_age', value: '10' },
   { key: 'grocery_day', value: 'sunday' },
@@ -63,7 +64,7 @@ const cards = [
   { id: 'auto', name: 'Auto', category: 'out', frequency: 'ad_hoc', notes: 'Car maintenance, registration, etc.' },
   // CAREGIVING
   { id: 'morning_routine', name: 'Morning Routine (Kids)', category: 'caregiving', frequency: 'daily', notes: 'Always Sav. Wake 6:30am, drop 7:30am. Pack Enzo lunch night before (whoever cleans dinner does it). Amare needs water + snacks only.' },
-  { id: 'pets', name: 'Pets', category: 'caregiving', frequency: 'daily', notes: 'Sally (dog, 55lb hound, 6yo) and Ajax (cat, 10yo)' },
+  { id: 'pets', name: 'Pets', category: 'caregiving', frequency: 'daily', notes: 'Sally (dog, 55lb hound, 6yo) and Ajax (cat, 10yo). Sally eats Taste of the Wild salmon, 50lb bags. Sally care provider: Paws and Play' },
   { id: 'health_insurance', name: 'Health Insurance', category: 'caregiving', frequency: 'annual', notes: 'Enrollment, management' },
   // MAGIC
   { id: 'marriage_romance', name: 'Marriage & Romance', category: 'magic', frequency: 'ad_hoc', notes: "Anniversary Nov 3, Nicole's birthday Nov 12. Nicole is gluten free and seriously into photography." },
