@@ -37,7 +37,13 @@ const profile = [
   { key: 'wife_interests', value: 'photography, serious and skilled' },
   { key: 'wife_bday', value: '11-12' },
   { key: 'wedding_anniversary', value: '11-03' },
-  { key: 'kid1_school', value: 'Post Road Elementary School, Mrs. Sharkey class (class parent Leslie Navarro)' },
+  { key: 'kid1_school', value: 'Post Road Elementary School, 1st grade, Mrs. Maureen Sharkey class (class parent Leslie Navarro), updates via ParentSquare' },
+  { key: 'kid1_bus', value: 'PR #11, pickup and dropoff at the YMCA on Hamilton Ave, 8:00am and 3:32pm' },
+  { key: 'kid2_school', value: 'UPK, White Plains school district, updates via ClassDojo' },
+  { key: 'wife_nickname', value: 'Colie' },
+  { key: 'wife_job', value: 'teacher in the White Plains school district' },
+  { key: 'shared_calendar', value: 'Colie and Sav - joint calendar (Nicole adds school dates; stores times in Pacific, read in Eastern)' },
+  { key: 'dismissal_changes', value: 'must reach school in writing by 2pm' },
   { key: 'employer', value: '73 Strings, North America sales team' },
   { key: 'workout_schedule', value: 'OUTDATED: calendar workouts are from an old August plan, current plan of record is training plan v2.2 (not the calendar). Old calendar slots were CrossFit mon/wed 8:30am, short run tue 6am, long run fri 7am, ride sat 8am, easy run sun 8am' },
   { key: 'workout_tracker', value: 'Strava (primary), Whoop secondary' },
@@ -63,7 +69,7 @@ const cards = [
   { id: 'cash_bills', name: 'Cash & Bills', category: 'out', frequency: 'monthly' },
   { id: 'auto', name: 'Auto', category: 'out', frequency: 'ad_hoc', notes: 'Car maintenance, registration, etc.' },
   // CAREGIVING
-  { id: 'morning_routine', name: 'Morning Routine (Kids)', category: 'caregiving', frequency: 'daily', notes: 'Always Sav. Wake 6:30am, drop 7:30am. Pack Enzo lunch night before (whoever cleans dinner does it). Amare needs water + snacks only.' },
+  { id: 'morning_routine', name: 'Morning Routine (Kids)', category: 'caregiving', frequency: 'daily', notes: 'Always Sav. Wake 6:30am, drop 7:30am. Pack Enzo lunch night before (whoever cleans dinner does it). Amare needs water + snacks only. Amare takes bus PR #11 from the YMCA on Hamilton Ave at 8:00am, dropped back there 3:32pm. Dismissal changes go to school in writing by 2pm.' },
   { id: 'pets', name: 'Pets', category: 'caregiving', frequency: 'daily', notes: 'Sally (dog, 55lb hound, 6yo) and Ajax (cat, 10yo). Sally eats Taste of the Wild salmon, 50lb bags. Sally care provider: Paws and Play' },
   { id: 'health_insurance', name: 'Health Insurance', category: 'caregiving', frequency: 'annual', notes: 'Enrollment, management' },
   // MAGIC
