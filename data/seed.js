@@ -39,6 +39,7 @@ const profile = [
   { key: 'wedding_anniversary', value: '11-03' },
   { key: 'kid1_school', value: 'Post Road Elementary School, 1st grade, Mrs. Maureen Sharkey class (class parent Leslie Navarro), updates via ParentSquare' },
   { key: 'kid1_bus', value: 'PR #11, pickup and dropoff at the YMCA on Hamilton Ave, 8:00am and 3:32pm' },
+  { key: 'kids_pickup', value: 'YMCA pickup 4:30pm, Nicole on weekdays, Sav on fridays' },
   { key: 'kid2_school', value: 'UPK, White Plains school district, updates via ClassDojo' },
   { key: 'wife_nickname', value: 'Colie' },
   { key: 'wife_job', value: 'teacher in the White Plains school district' },
