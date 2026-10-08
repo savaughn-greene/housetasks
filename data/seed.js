@@ -39,7 +39,7 @@ const profile = [
   { key: 'wedding_anniversary', value: '11-03' },
   { key: 'kid1_school', value: 'Post Road Elementary School, 1st grade, Mrs. Maureen Sharkey class (class parent Leslie Navarro), updates via ParentSquare' },
   { key: 'kid1_bus', value: 'PR #11, pickup and dropoff at the YMCA on Hamilton Ave, 8:00am and 3:32pm' },
-  { key: 'kids_pickup', value: 'YMCA pickup 4:30pm, Nicole on weekdays, Sav on fridays' },
+  { key: 'kids_pickup', value: 'YMCA on Hamilton Ave, 4:30pm. Nicole mon-thu, Sav fridays' },
   { key: 'kid2_school', value: 'UPK, White Plains school district, updates via ClassDojo' },
   { key: 'wife_nickname', value: 'Colie' },
   { key: 'wife_job', value: 'teacher in the White Plains school district' },
@@ -62,7 +62,7 @@ const cards = [
   { id: 'storage_garage', name: 'Storage, Garage & Seasonal Items', category: 'home', frequency: 'seasonal' },
   { id: 'mail', name: 'Mail', category: 'home', frequency: 'daily', notes: 'Includes processing and acting on bills' },
   { id: 'garbage', name: 'Garbage', category: 'home', frequency: 'weekly', notes: 'Fully owned by Sav. Pickup Monday and Thursday on McBride Ave. Bulk items go curbside on the second pickup day (Thursday) - mattresses must be wrapped in plastic and taped. Metal and electronics need an appointment with White Plains sanitation, 914-422-1217.' },
-  { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches. Nicole is gluten free, so keep GF options in the weekly list. Usual staples: Fairlife 2% lactose-free milk, Oatly original oat milk' },
+  { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches. Nicole is gluten free, so keep GF options in the weekly list. Usual staples: Fairlife 2% lactose-free milk, Oatly original oat milk, Bonne Maman raspberry preserves' },
   { id: 'money_manager', name: 'Money Manager', category: 'home', frequency: 'monthly', notes: 'Mortgage, utilities, taxes, all major bills' },
   // OUT
   { id: 'social_plans', name: 'Social Plans (Couples)', category: 'out', frequency: 'ad_hoc' },
@@ -72,7 +72,7 @@ const cards = [
   // CAREGIVING
   { id: 'morning_routine', name: 'Morning Routine (Kids)', category: 'caregiving', frequency: 'daily', notes: 'Always Sav. Wake 6:30am, drop 7:30am. Pack Enzo lunch night before (whoever cleans dinner does it). Amare needs water + snacks only. Amare takes bus PR #11 from the YMCA on Hamilton Ave at 8:00am, dropped back there 3:32pm. Dismissal changes go to school in writing by 2pm.' },
   { id: 'pets', name: 'Pets', category: 'caregiving', frequency: 'daily', notes: 'Sally (dog, 55lb hound, 6yo) and Ajax (cat, 10yo). Sally eats Taste of the Wild salmon, 50lb bags. Sally care provider: Paws and Play' },
-  { id: 'health_insurance', name: 'Health Insurance', category: 'caregiving', frequency: 'annual', notes: 'Enrollment, management' },
+  { id: 'health_insurance', name: 'Health Insurance', category: 'caregiving', frequency: 'annual', notes: 'Enrollment, management. Oct 2026: moving to coverage through Nicole\'s work, Sav cancelling his 73 Strings work plan (in progress)' },
   // MAGIC
   { id: 'marriage_romance', name: 'Marriage & Romance', category: 'magic', frequency: 'ad_hoc', notes: "Anniversary Nov 3, Nicole's birthday Nov 12. Nicole is gluten free and seriously into photography." },
   { id: 'adult_friendships', name: 'Adult Friendships (Player 1)', category: 'magic', frequency: 'ad_hoc' },
