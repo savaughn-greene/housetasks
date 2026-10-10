@@ -75,7 +75,7 @@ const cards = [
   { id: 'health_insurance', name: 'Health Insurance', category: 'caregiving', frequency: 'annual', notes: 'Enrollment, management. Oct 2026: moving to coverage through Nicole\'s work, Sav cancelling his 73 Strings work plan (in progress)' },
   // MAGIC
   { id: 'marriage_romance', name: 'Marriage & Romance', category: 'magic', frequency: 'ad_hoc', notes: "Anniversary Nov 3, Nicole's birthday Nov 12. Nicole is gluten free and seriously into photography." },
-  { id: 'adult_friendships', name: 'Adult Friendships (Player 1)', category: 'magic', frequency: 'ad_hoc' },
+  { id: 'adult_friendships', name: 'Adult Friendships (Player 1)', category: 'magic', frequency: 'ad_hoc', notes: 'Max: mountain biking friend' },
 ];
 
 const reminders = [
