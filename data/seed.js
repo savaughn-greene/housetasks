@@ -63,7 +63,7 @@ const cards = [
   { id: 'mail', name: 'Mail', category: 'home', frequency: 'daily', notes: 'Includes processing and acting on bills' },
   { id: 'garbage', name: 'Garbage', category: 'home', frequency: 'weekly', notes: 'Fully owned by Sav. Pickup Monday and Thursday on McBride Ave. Bulk items go curbside on the second pickup day (Thursday) - mattresses must be wrapped in plastic and taped. Metal and electronics need an appointment with White Plains sanitation, 914-422-1217.' },
   { id: 'groceries', name: 'Groceries', category: 'home', frequency: 'weekly', notes: 'Sunday Wegmans + Trader Joes. Includes knowing what is needed, meal planning for Mon/Tue dinners and weekly lunches. Nicole is gluten free, so keep GF options in the weekly list. Usual staples: Fairlife 2% lactose-free milk, Oatly original oat milk, Bonne Maman raspberry preserves' },
-  { id: 'money_manager', name: 'Money Manager', category: 'home', frequency: 'monthly', notes: 'Mortgage, utilities, taxes, all major bills' },
+  { id: 'money_manager', name: 'Money Manager', category: 'home', frequency: 'monthly', notes: "Mortgage, utilities, taxes, all major bills. Synchrony Freedom to Ride card: autopay $175 on the 9th of every month (set up Oct 13 2026, zero-interest promo)." },
   // OUT
   { id: 'social_plans', name: 'Social Plans (Couples)', category: 'out', frequency: 'ad_hoc' },
   { id: 'birthday_celebrations', name: 'Birthday Celebrations (Other Kids)', category: 'out', frequency: 'ad_hoc', notes: 'Responsible for gifts and cards' },
